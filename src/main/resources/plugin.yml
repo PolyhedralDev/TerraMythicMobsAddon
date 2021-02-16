@@ -1,0 +1,6 @@
+name: TerraMythicMobsAddon
+main: com.dfsek.terramm.TerraMythicMobsAddon
+version: 0.1.0
+load: STARTUP
+depend:
+  - Terra
